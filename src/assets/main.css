@@ -1,0 +1,68 @@
+@import './base.css';
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+#app {
+  position: relative;
+  min-height: 100vh;
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+/* 
+
+#dark {
+    color: var(--text-dark-1);
+  }
+  #dark form,
+  ul,
+  .action_container {
+    background-color: var(--background-dark);
+  }
+  #dark .btn_submit,
+  li {
+    border: 1px solid var(--border-dark);
+  }
+  #dark .done {
+    color: var(--task-done-dark);
+  }
+  #dark .action_container,
+  .btn_clear {
+    color: var(--text-dark-2);
+  }
+  #dark .btn_clear:hover,
+  .filter_btn_container label:hover {
+    color: var(--text-dark-hover);
+  }
+ 
+  #light {
+    color: var(--text-light-1);
+  }
+  #light form,
+  ul,
+  .action_container {
+    background-color: var(--background-light);
+  }
+  #light .btn_submit,
+  li {
+    border: 1px solid var(--border-light);
+  }
+  #light .done {
+    color: var(--task-done-light);
+  }
+  #light .action_container,
+  .btn_clear {
+    color: var(--text-light-2);
+  }
+  #light .btn_clear:hover,
+  .filter_btn_container label:hover {
+    color: var(--text-light-hover);
+  }
+*/
