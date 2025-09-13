@@ -4,10 +4,9 @@
 
 ## Welcome! 👋
 
-Hello, it's a sample todo app challenges a resolve with vuejs
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
-**Hello, it's a sample todo app challenges a resolve with vuejs**
+**Hello, it's a sample todo app challenge that I have done with Vue.js**
 
 Link to preview : https://todoappm2aml.vercel.app/
